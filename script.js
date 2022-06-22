@@ -50,3 +50,4 @@ function checkScroll(){
 		animation=false;
 	}
 }
+
